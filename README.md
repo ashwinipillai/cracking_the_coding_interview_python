@@ -2,8 +2,8 @@
 cracking_the_coding_interview_python
 # Cracking the Coding Interview (6th Edition) 
 
-![Language](https://img.shields.io/badge/language-Java%20-red.svg) </br>
-Java solutions to problems in the book Cracking the Coding Interview(6th Edition). 
+![Language](https://img.shields.io/badge/language-Python%20-red.svg) </br>
+Python solutions to problems in the book Cracking the Coding Interview(6th Edition). 
 
 ## Table of Contents
 
